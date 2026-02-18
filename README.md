@@ -24,9 +24,9 @@
 
 <!-- BIO -->
 
-```
+
 ✦ about.md
-```
+
 
 > *Desarrolladora de software con mentalidad de producto.*
 > *Me interesa construir soluciones limpias, funcionales y con propósito.*
@@ -44,9 +44,9 @@ const danna = {
 
 <!-- TECH STACK -->
 
-```
+
 ✦ stack.md
-```
+
 
 <div align="center">
 
@@ -77,9 +77,9 @@ const danna = {
 
 <!-- PROJECTS -->
 
-```
+
 ✦ projects.md
-```
+
 
 <div align="center">
 
@@ -115,9 +115,8 @@ const danna = {
 
 <!-- MISSION -->
 
-```
 ✦ mission.md
-```
+
 
 <div align="center">
 
@@ -135,9 +134,9 @@ const danna = {
 
 <!-- CONNECT -->
 
-```
+
 ✦ connect.md
-```
+
 
 <div align="center">
 
