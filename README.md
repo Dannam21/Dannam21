@@ -17,7 +17,7 @@
 <a href="mailto:danna.mendezmoncada@gmail.com">
   <img src="https://img.shields.io/badge/email-0d1117?style=for-the-badge&logo=gmail&logoColor=FBEAD6" alt="Email"/>
 </a>
-<a href="https://tu-portfolio.com">
+<a href="https://portafolio.allichay.com/">
   <img src="https://img.shields.io/badge/portfolio-0d1117?style=for-the-badge&logo=googlechrome&logoColor=FBEAD6" alt="Portfolio"/>
 </a>
 
